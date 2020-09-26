@@ -1,0 +1,41 @@
+#main {
+  text-align: center;
+}
+
+h1 {
+  font-family: sans-serif;
+  font-size: 3em;
+}
+
+p, li, strong, figcaption {
+  font-family: system-ui;
+}
+
+#image {
+  display: block;
+  max-width: 100%;
+  margin: auto;
+}
+
+#img-caption {
+  margin-top: 1%;
+}
+
+#trbt-head {
+  font-size: 1.2em;
+}
+
+ul, #tribute-info {
+  width: 60%;
+  margin: auto;
+  padding-top: 2%;
+}
+
+li {
+  text-align: justify;
+  margin-top: 2%;
+}
+
+#link-div {
+  font-size: 1.5em;
+}
